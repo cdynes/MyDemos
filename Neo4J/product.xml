@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema dbmsId="mysql_id">
+    <column comment="" default="" key="true" label="P_ID" length="-1"
+        nullable="true" originalDbColumnName="P_ID" pattern=""
+        precision="-1" talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="description"
+        length="-1" nullable="true" originalDbColumnName="description"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+</schema>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema dbmsId="mysql_id">
+    <column comment="" default="" key="true" label="ID" length="2"
+        nullable="true" originalDbColumnName="ID"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0"
+        talendType="id_Integer" type=""/>
+    <column comment="" default="" key="false" label="Firstname"
+        length="10" nullable="true" originalDbColumnName="Firstname"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="Lastname"
+        length="12" nullable="true" originalDbColumnName="Lastname"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="P_ID" length="2"
+        nullable="true" originalDbColumnName="P_ID" pattern=""
+        precision="-1" talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="country"
+        length="-1" nullable="true" originalDbColumnName="country"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+</schema>
